@@ -1,0 +1,1 @@
+The pipeline folders in an R project can be used for storing intermediate files prior to generating outputs. We did not end up using these folders in the scripts, so running the scripts will not produce any outputs in these folders.
