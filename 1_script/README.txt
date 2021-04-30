@@ -1,0 +1,1 @@
+Scripts for running the Common Nighthawk analyses. They should be run in order starting from "1". Note: some variables that have been generated in the code (e.g. Time Before Sunrise or TBSR, mean nightly temperature, moon illumination) ended up not being used in our final analyses.
